@@ -1,0 +1,57 @@
+h1{
+    width: auto;
+    text-align: center;
+   background-color: aqua;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+.img{
+    float:left;
+}
+.heading{
+    padding:2rem;
+}
+body{
+    background-color:beige;
+}
+h3{
+    text-align: center;
+}
+
+body{
+    padding: 2em;
+    font-family: sans-serif;
+}
+
+.registerLink{
+    text-align: center;
+}
+.video{
+   float:left;
+}
+.conclusion{
+    font-size: large;
+    padding: 1.5px;
+    margin-left: 10px;
+    margin-right: 10px ;
+    
+}
+.solution{
+    text-align:center;
+    border-top: 100px;
+}
+.airpollution{
+    text-align: left;
+}
+.solution{
+  float: left;
+  height:auto;
+  width:auto;
+  padding:25px;
+}
+
+.airpollutionimage{
+   float: left;
+
+}
